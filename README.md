@@ -9,4 +9,5 @@ Build Employee Database with PostgreSQL to determine the number of retiring empl
 - This project assumed retirement years between 1952 and 1955.
 - With these results table, the company can plan the mentorship program.
 - Also we can use [QuickDBD](https://app.quickdatabasediagrams.com/#/) to demonstrates relationships between all tables as shown below:
-![alt text](../main/EmployeeDB.png"EmployeeDB")
+![alt text](../main/EmployeeDB.png "EmployeeDB")
+
